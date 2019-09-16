@@ -1,0 +1,4 @@
+//Pallindrome:
+	(10**i//9)**2
+//Triangle Quest
+	(pow(10,i)/9) * 2
